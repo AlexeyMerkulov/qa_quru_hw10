@@ -1,0 +1,12 @@
+{
+  "new": true,
+  "price": 25000,
+  "name": "Mazda",
+  "engine": {
+    "type": "2.5L"
+  },
+  "options": [
+    "metallic paint",
+    "winter tires"
+  ]
+}
